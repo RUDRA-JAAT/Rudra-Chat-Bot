@@ -4,10 +4,6 @@
         "BOT_TOKEN": {
             "description": "𝐅𝐢𝐥𝐥 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐓𝐨𝐤𝐞𝐧 𝐎𝐧𝐥𝐲",
             "required": true
-        }
-        "MONGO_URL": {
-            "description": "𝐅𝐢𝐥𝐥 𝐘𝐨𝐮𝐫 𝐌𝐨𝐧𝐠𝐨 𝐃𝐛 𝐔𝐫𝐥",
-            "required": true
         }              
     },
     "addons": [
