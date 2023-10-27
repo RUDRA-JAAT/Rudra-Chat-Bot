@@ -6,9 +6,9 @@
             "required": true
         }
         "MONGO_URL": {
-            "description": "𝐅𝐢𝐥𝐥 𝐘𝐨𝐮𝐫 𝐌𝐨𝐧𝐠𝐨 𝐃𝐛 ",
+            "description": "𝐅𝐢𝐥𝐥 𝐘𝐨𝐮𝐫 𝐌𝐨𝐧𝐠𝐨 𝐃𝐛 𝐔𝐫𝐥",
             "required": true
-        }      
+        }              
     },
     "addons": [
         {
