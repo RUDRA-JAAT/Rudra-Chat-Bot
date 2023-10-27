@@ -4,9 +4,9 @@
         "BOT_TOKEN": {
             "description": "𝐅𝐢𝐥𝐥 𝐘𝐨𝐮𝐫 𝐁𝐨𝐭 𝐓𝐨𝐤𝐞𝐧 𝐎𝐧𝐥𝐲",
             "required": true
-      }, 
-      "BOT_TOKEN": {
-        "description": "𝐆𝐄𝐓 𝐁𝐎𝐓 𝐓𝐎𝐊𝐄𝐍 𝐅𝐑𝐎𝐌 𝐁𝐎𝐓 𝐅𝐀𝐓𝐇𝐄𝐑",
+      },
+      "MONGO_DB_URI": {
+        "description": "𝐆𝐄𝐓 𝐀 𝐌𝐎𝐍𝐆𝐎𝐃𝐁 𝐔𝐑𝐋 𝐅𝐑𝐎𝐌 https://cloud.mongodb.com. 𝐈𝐅 𝐘𝐎𝐔 𝐃𝐎𝐍𝐓 𝐇𝐀𝐕𝐄 𝐓𝐇𝐄𝐍 𝐔𝐒𝐄 𝐀𝐋𝐑𝐄𝐀𝐃𝐘 𝐅𝐈𝐋𝐋𝐄𝐃 𝐌𝐎𝐍𝐆𝐎.",
         "value": "",
         "required": true
       },             
