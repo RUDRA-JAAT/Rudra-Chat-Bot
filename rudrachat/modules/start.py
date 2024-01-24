@@ -9,6 +9,7 @@ from pyrogram.types import InlineKeyboardMarkup, Message
 
 
 from rudrachat import rudrachat
+from config import OWNER_USERNAME
 from rudrachat.database.chats import add_served_chat
 from rudrachat.database.users import add_served_user
 from rudrachat.modules.helpers import (
